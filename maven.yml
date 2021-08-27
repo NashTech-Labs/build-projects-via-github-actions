@@ -1,4 +1,4 @@
-name: Gradle Check Build Publish
+name: Maven Check Build Publish
 
 on:
   push:
